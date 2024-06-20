@@ -6,10 +6,18 @@
 ### ROMO LOPEZ BRYAN ANDRES
 
 <img src="Captura.PNG">
-<img src="CapDayra.png">
-<img src="CapDayraResult.png">
-<img src="CapGenesisResult.png">
-<img src="CapBryanResult.png">
-<img src="CapStalinResult.png">
-<img src="CapJustinError.png">
-<img src="CapJustinResult.png">
+<p align="center">
+  <img src="CapDayra.png" width="45%">
+  <img src="CapDayraResult.png" width="45%">
+</p>
+<p align="center">
+  <img src="CapGenesisResult.png" width="45%">
+  <img src="CapBryanResult.png" width="45%">
+</p>
+<p align="center">
+  <img src="CapStalinResult.png" width="45%">
+  <img src="CapJustinError.png" width="45%">
+</p>
+<p align="center">
+  <img src="CapJustinResult.png" width="45%">
+</p>
