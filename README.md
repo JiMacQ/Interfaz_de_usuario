@@ -7,17 +7,15 @@
 
 <img src="Captura.PNG">
 <p align="center">
-  <img src="CapDayra.png" width="45%">
-  <img src="CapDayraResult.png" width="45%">
+  <img src="CapDayra.png" width="30%">
+  <img src="CapDayraResult.png" width="30%">
+  <img src="CapGenesisResult.png" width="30%">
 </p>
 <p align="center">
-  <img src="CapGenesisResult.png" width="45%">
-  <img src="CapBryanResult.png" width="45%">
+  <img src="CapBryanResult.png" width="30%">
+  <img src="CapStalinResult.png" width="30%">
+  <img src="CapJustinError.png" width="30%">
 </p>
 <p align="center">
-  <img src="CapStalinResult.png" width="45%">
-  <img src="CapJustinError.png" width="45%">
-</p>
-<p align="center">
-  <img src="CapJustinResult.png" width="45%">
+  <img src="CapJustinResult.png" width="30%">
 </p>
