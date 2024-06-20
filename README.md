@@ -5,6 +5,7 @@
 ### MOREIRA CABEZAS GENESIS JOMARY
 ### ROMO LOPEZ BRYAN ANDRES
 
+<img src="CAPTURA.PNG">
 <img src="CapDayra.png">
 <img src="CapDayraResult.png">
 <img src="CapGenesisResult.png">
